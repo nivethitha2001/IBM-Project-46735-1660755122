@@ -2,3 +2,10 @@
 Personal Expense Tracker Application
 
 
+Team members:
+Newtton Habakuk S
+Naveen Kumar S
+Nivethitha S
+Pooja b
+
+
